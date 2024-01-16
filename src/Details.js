@@ -115,7 +115,6 @@ export const projectDetails = [
   },
   
 ];
-
 export const contactDetails = {
   email: "narkeshreyas44@gmail.com",
   phone: "+91 9767710596",
