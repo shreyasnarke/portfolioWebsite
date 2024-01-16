@@ -1,0 +1,22 @@
+.App {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* background-color: #f9f9f9; */
+    z-index: 999;
+  }
+  
+  .App-container {
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 10px;
+    white-space: nowrap;
+  }
+  
+  .navigation-container div {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #333;
+  }
