@@ -1,21 +1,19 @@
 {
   "files": {
     "main.css": "/MySNportfolio/static/css/main.d4530cb0.css",
-    "main.js": "/MySNportfolio/static/js/main.e8248ab0.js",
+    "main.js": "/MySNportfolio/static/js/main.7bd60076.js",
     "static/media/profile.jpg": "/MySNportfolio/static/media/profile.113ff55b6f05284beab4.jpg",
     "static/media/project2.jpg": "/MySNportfolio/static/media/project2.5fae296d371cc56cd98a.jpg",
     "static/media/project4.jpg": "/MySNportfolio/static/media/project4.a7b7ed11daa072b234eb.jpg",
     "static/media/project3.jpg": "/MySNportfolio/static/media/project3.03535c34c110b7ea292b.jpg",
     "static/media/logo.svg": "/MySNportfolio/static/media/logo.0bad282e338a9971ebc84d7e1098fd15.svg",
-    "static/media/project5.jpg": "/MySNportfolio/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
     "static/media/logo2.svg": "/MySNportfolio/static/media/logo2.8748cd4b53ed338faabde58af993f30a.svg",
-    "static/media/project6.jpg": "/MySNportfolio/static/media/project6.a22c939898d6c4613b65.jpg",
     "index.html": "/MySNportfolio/index.html",
     "main.d4530cb0.css.map": "/MySNportfolio/static/css/main.d4530cb0.css.map",
-    "main.e8248ab0.js.map": "/MySNportfolio/static/js/main.e8248ab0.js.map"
+    "main.7bd60076.js.map": "/MySNportfolio/static/js/main.7bd60076.js.map"
   },
   "entrypoints": [
     "static/css/main.d4530cb0.css",
-    "static/js/main.e8248ab0.js"
+    "static/js/main.7bd60076.js"
   ]
 }
