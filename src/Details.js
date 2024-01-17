@@ -86,8 +86,8 @@ export const projectDetails = [
   {
     title: "Spotify music-clone",
     image: projectImage1,
-    description: `The Spotify Music App Clone project aims to recreate the popular music streaming platform using HTML and CSS. 
-    this project will provide users with a familiar and immersive music streaming experience.`,
+    description: `The Spotify Music App Clone project aims to recreate the popular music streaming platform using programming languages like HTML5 and CSS3 and some funcationlities of Javascript. 
+    this project will provide users with a familiar and immersive music streaming experience`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com/shreyasnarke/smusic-spotify-clone-",
@@ -104,8 +104,8 @@ export const projectDetails = [
   {
     title: "Movie Search",
     image: projectImage3,
-    description: `This ReactJS project aims to create a simple and interactive Movie Search application. Users can input a movie title, and the 
-    application fetches relevant movie information using the Open Movie Database (OMDb) API..`,
+    description: `Welcome to the Movie Search App, an interactive and user-friendly ReactJS project designed to cater to movie enthusiasts. 
+    This application provides for users to explore movies. The fetching movie data in real-time using the Open Movie Database (OMDb) API.`,
     techstack: "HTML/CSS, JavaScript,reactjs",
     previewLink: "https://google.com",
     githubLink: "https://github.com/shreyasnarke/movies-search",
