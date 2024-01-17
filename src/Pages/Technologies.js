@@ -9,6 +9,11 @@ function Technologies() {
     react,
     tailwind,
     bootstrap,
+    vscode,
+    github,
+    figma,
+    java,
+    csharp,
   } = techStackDetails;
   return (
     <main className="container mx-auto max-width pt-10 pb-20 ">
@@ -24,11 +29,14 @@ function Technologies() {
         <img src={html} title="html" alt="" />
         <img src={css} title="CSS" alt="" />
         <img src={js} title="JavaScript" alt="" />
-        <img src={react} title="React" alt="" />
-        {/* <img src={redux} title="Redux" alt="" /> */}
+        <img src={react} title="React" alt="" /> 
         <img src={tailwind} title="Tailwind CSS" alt="" />
         <img src={bootstrap} title="Bootstrap" alt="" />
-        {/* <img src={sass} title="SASS" alt="" /> */}
+        <img src={java} title="Java" alt="" />
+        <img src={csharp} title="C#" alt="" />
+        <img src={vscode} title="Visual Studio Code" alt="" />
+        <img src={github} title="Github" alt="Github" />
+        <img src={figma} title="Figma" alt="Figma" />
       </section>
       {/* <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">

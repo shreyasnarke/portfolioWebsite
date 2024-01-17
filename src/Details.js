@@ -7,10 +7,13 @@ import js from "./assets/techstack/js.png";
 import react from "./assets/techstack/react.png";
 import tailwind from "./assets/techstack/tailwind.png";
 import bootstrap from "./assets/techstack/bootstrap.png";
+import csharp from "./assets/techstack/csharp.png";
+import java from "./assets/techstack/java.png";
 import vscode from "./assets/techstack/vscode.png";
 import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
+import figma from "./assets/techstack/figma.png";
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
@@ -30,7 +33,7 @@ export const personalDetails = {
 };
 
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
+  linkedin: "https://www.linkedin.com/",
   github: "https://www.github.com/",
   twitter: "https://twitter.com/",
   instagram: "https://www.instagram.com/",
@@ -70,10 +73,13 @@ export const techStackDetails = {
   react: react,
   tailwind: tailwind,
   bootstrap: bootstrap,
+  java:java,
+  csharp:csharp,
   vscode: vscode,
   npm: npm,
   git: git,
   github: github,
+  figma:figma,
 };
 
 export const projectDetails = [
