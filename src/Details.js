@@ -29,14 +29,22 @@ export const personalDetails = {
   name: "SHREYAS SANDEEP NARKE",
   tagline: "I build things for web",
   img: profile,
-  about: ``,
+  about: `Highly motivated and skilled Frontend
+  Developer in creating user-friendly and
+  visually appealing websites. Skilled in HTML,
+  CSS, JavaScript, and React JS responsive
+  design and utilize Core Java skills.
+  Committed to delivering exceptional results
+  while staying updated with the latest web
+  development trends. Seeking a challenging
+  position to utilize my expertise and
+  contribute to the success of a dynamic
+  organization`,
 };
 
 export const socialMediaUrl = {
-  linkedin: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkedin: "https://www.linkedin.com/in/shreyas-narke-0392871a7/",
+  github: "https://github.com/shreyasnarke",
 };
 
 export const workDetails = [
@@ -122,6 +130,6 @@ export const projectDetails = [
   
 ];
 export const contactDetails = {
-  email: "narkeshreyas44@gmail.com",
+  email: "shreyassandeepnarke@gmail.com",
   phone: "+91 9767710596",
 };

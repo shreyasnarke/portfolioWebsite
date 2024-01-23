@@ -14,10 +14,10 @@ function Header() {
       <div className="flex justify-between items-center py-2 md:py-10">
         <div onClick={toggleClass} className="cursor-pointer">
           <svg
-            className="stroke-dark-heading dark:stroke-white md:hidden"
-            width="25"
-            height="20"
-            viewBox="0 0 16 13"
+            className="stroke-dark-heading md:hidden"
+            width="1200"
+            height="22"
+            viewBox="0 0 20 13"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
           >

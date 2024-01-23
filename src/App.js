@@ -1,6 +1,6 @@
-import { BrowserRouter as Route} from "react-router-dom";
-//import Header from "./Components/Header";
-// import Footer from "./Components/Footer";
+import { BrowserRouter as Router,Routes,Route} from "react-router-dom";
+import Header from "./Components/Header";
+import Footer from "./Components/Footer";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import Contact from "./Pages/Contact";
@@ -10,38 +10,38 @@ function App() {
   return (
     //import { BrowserRouter as  Router,Routes,Route} from "react-router-dom";
 
-    // <Router>
-    //   <Header/>
-    //   <Routes>
-    //     <Route path="/" element={<Home/>} />
-    //     <Route path="/about" element={<About />} />
-    //     <Route path="/contact" element={<Contact />} />
-    //     <Route path="/projects" element={<Projects />} />
-    //     <Route path="/technologies" element={<Technologies />} />
-    //     </Routes>
-    //   <Footer />
-    //</Router>
+    <Router>
+      <Header/>
+      <Routes>
+        <Route path="/" element={<Home/>} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/projects" element={<Projects />} />
+        <Route path="/technologies" element={<Technologies />} />
+      </Routes>
+      <Footer />
+    </Router>
     
-    <div className="App">
-      <div className="App-container">
-      <div>
-        <Home/>
-          <Route path="/" element={<Home/>} />
-      </div>
-      <div>
-        <About/>
-      </div>
-      <div>
-        <Projects/>
-      </div>
-      <div>
-        <Technologies/>
-      </div>
-      <div>
-        <Contact/>
-      </div>
-      </div>  
-    </div> 
+    // <div className="App">
+    //   <div className="App-container">
+    //   <div>
+    //     <Home/>
+    //       <Route path="/" element={<Home/>} />
+    //   </div>
+    //   <div>
+    //     <About/>
+    //   </div>
+    //   <div>
+    //     <Projects/>
+    //   </div>
+    //   <div>
+    //     <Technologies/>
+    //   </div>
+    //   <div>
+    //     <Contact/>
+    //   </div>
+    //   </div>  
+    // </div> 
   );
 }
 export default App;
