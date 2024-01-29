@@ -15,7 +15,7 @@ function Header() {
         <div onClick={toggleClass} className="cursor-pointer">
           <svg
             className="stroke-dark-heading md:hidden"
-            width="1200"
+            width="50"
             height="22"
             viewBox="0 0 20 13"
             fill="none"

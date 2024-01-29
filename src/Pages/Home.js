@@ -249,13 +249,13 @@ function Home() {
           {/* LinkedIn Icon */}
           {/* ... (existing code) */}
         </div>
-        <a ref={h14} href="C:\Users\shreyas\OneDrive\Desktop\portfolio-react\public\resume.pdf" download className="bg-gradient-to-r from-pink-500 to-purple-500 text-white py-2 px-4 rounded-md mt-4 inline-block">
-          Download Resume
-        </a>
       </div>
       <div className="mt-5 md:mt-0">
-        <img ref={myimageref} className="w-1/2 md:ml-auto" src={img} alt="Shreyas Narke" />
+        <img ref={myimageref} className="w-1/2 md:ml-auto" src={img} alt="Shreyas Narke" />      
       </div>
+      <a ref={h14} href="C:\Users\shreyas\OneDrive\Desktop\portfolio-react\public\resume.pdf" download className="bg-gradient-to-r from-pink-500 to-purple-500 text-white py-2 px-4 rounded-md mt-4 inline-block">
+          Download Resume
+        </a>
     </main>
   );
 }
